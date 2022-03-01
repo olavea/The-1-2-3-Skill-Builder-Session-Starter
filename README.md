@@ -9,24 +9,26 @@
 
 ## 💣 Prepare
 
--1.  **Bleh.**
+-1.  **Clone or fork this repo**
 
-    Clone or fork this repo: The 1-2-3 Skill-Builder-Session-Starter
+    The 1-2-3 Skill-Builder-Session-Starter
+
 
     ```shell
     # Clone this 1-2-3 Skill-Builder-Session-Starter
-    git clone bleh
+    git clone https://github.com/olavea/The-1-2-3-Skill-Builder-Session-Starter.git
     ```
 
 0.  **Bleh.**
 
-    Navigate into your new site’s directory and start it up.
+    Navigate into your new starter’s directory.
 
     ```shell
-    cd my-Bleh/
+    cd The-1-2-3-Skill-Builder-Session-Starter/
     npm run develop
     ```
 ## 🚀 Start
+
 1.  **Start a  Crocodile-Count-Down-Clock with X minutes**
 
     TODO:
@@ -39,7 +41,7 @@
 
     TODO:
     Here are your 8 Crocodile-Count-Reps:
-    - [ ] 🐊
+    - [v] 🐊
     - [ ] 🐊
     - [ ] 🐊
     - [ ] 🐊
@@ -49,7 +51,7 @@
     - [ ] 🐊
     - [ ] 🐊
 
-    For each time today's dev-task is done check a box. The point is to count your reps, no need to do all 8 😉.
+    For each time today's dev-task is done check a box with a v. The point is to count your reps, no need to do all 8 😉.
 
 3.  **Your Taskerbell-Task is Tiny**
 
