@@ -9,11 +9,9 @@
 
 ## 💣 Prepare
 
--1.  **Clone or fork this repo**
+0.  **Clone or fork this repo**
 
     The 1-2-3 Skill-Builder-Session-Starter
-    The 1-2-3 Skill-Builder-Session-Starter
-
 
     ```shell
     # Clone this 1-2-3 Skill-Builder-Session-Starter
