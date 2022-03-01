@@ -35,31 +35,31 @@
     Make up your mind:
     - [ ] «no» or
     - [ ] «yes» to start structuring today's Skill-Builder-Session, if «yes»
-    - [ ] start a count-down timer with X minutes. Ola uses 96 minutes, but you do you.
+    - [ ] ⏲️ start a count-down timer with X minutes. Ola uses 96 minutes, but you do you.
 
 2.  **Reps, reps, Crocodile-Count your reps**
 
     TODO:
     Here are your 8 Crocodile-Count-Reps:
-    - [x] 🐊
     - [ ] 🐊
     - [ ] 🐊
-    - [ ] 🐊
-    - [ ] 🐊
-
     - [ ] 🐊
     - [ ] 🐊
     - [ ] 🐊
 
-    For each time today's dev-task is done check a box with a v. The point is to count your reps, no need to do all 8 😉.
+    - [ ] 🐊
+    - [ ] 🐊
+    - [ ] 🐊
+
+    For each time today's dev-task is done check a box by adding an x like this «- [x] 🐊 ». The point is to count your reps, no need to do all 8 😉.
 
 3.  **Your Taskerbell-Task is Tiny**
 
     TODO:
     Take a tiny tidbit of a dev-task you've recently finished in your dev-job. Tinier than you think, maybe.
-    - [ ] Write your tiny Taskerbell-Task here: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+    - [ ] 🔔 Write your tiny Taskerbell-Task here: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-    - [ ] Start doing your dev-task, but go slow. Do that dev-task again and again. Until the Crocodile-Count-Down-Clock goes RRR! For each time today's Taskerbell-Task is done check a Crocodile-box in step 2.
+    - [ ] 🔧 Start doing your dev-task, but go slow. Do that dev-task again and again. Until the Crocodile-Count-Down-Clock goes RRR! For each time today's Taskerbell-Task is done check a Crocodile-box in step 2.
 
 ## 🖋️ A-B-C Questions for After:
 
@@ -67,23 +67,28 @@ A.  **How Did YOU Automate in your skull that tiny Taskerbell-Task?**
 
     TODO:
     Write notes. You know, just write down stuff that pops into your brain. For each word you write down you «make space» for another word in your brain. If you keep writing down words one of those words might be a golden nugget, showing you the path you need to take to Automate in your skull this tiny Taskerbell-Task.
-    Write your notes about «Automate in your skull that tiny Taskerbell-Task» in this issue:
+    - [ ] 💀 Write your notes about «Automate in your skull that tiny Taskerbell-Task» here: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
 
 B.  **Who's your accountability-Buddy, Buddy?**
 
     TODO:
-    Write names. You know, just write down names that pops into your brain. For each name you write down you «make space» for another name in your brain. If you keep writing down names one of those words might be a golden nugget, showing you who you need to make your accountability-Buddy. Write your notes about «accountability-Buddy» in this issue:
+    Write names. You know, just write down names that pops into your brain. For each name you write down you «make space» for another name in your brain. If you keep writing down names one of those words might be a golden nugget, showing you who you need to make your accountability-Buddy.
+    - [ ] 👸 Write your notes about ideas for your «accountability-Buddy» here: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 C.  **Celebrate? What to Celebrate?**
 
     TODO:
-    Celebrate with your self and a mirror. 😺
+    - [ ] 🍰 Go get yourself a treat, like a fresh coffee or a piece of cake or something.
+    - [ ] Tell yourself «SELF! You structured today's Skill-Builder-Session to fit YOUR dev-brain! Now you are one step closer to a less Half-Ass-Structured Skill-Builder-Ship. ⛵ If you do it again your work-life will become more worthwhile. And if you do it again and again your family could benefit from a you that has more «YOU-ness» to give them 😺👍.»
+
+    Bonus:
+    - [ ] For extra effect tell yourself out loud, in front of a mirror. Make sure you are unobserved 😉.
 
 
+## 💌 Beta: Please give me feedback
 
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
+    Yeah The 1-2-3 Skill-Builder-Session-Starter is still in beta, so please give me feedback [by email to ola@olavea.com](mailto:ola@olavea.com)
 
 
 
