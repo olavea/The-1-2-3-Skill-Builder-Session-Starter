@@ -88,7 +88,7 @@ C.  **Celebrate? What to Celebrate?**
 
 ## 💌 Beta: Please give me feedback
 
-    Yeah The 1-2-3 Skill-Builder-Session-Starter is still in beta, so please give me feedback [by email to ola@olavea.com](mailto:ola@olavea.com)
+Yeah The 1-2-3 Skill-Builder-Session-Starter is still in beta, so please give me feedback [by email to ola@olavea.com](mailto:ola@olavea.com)
 
 
 
