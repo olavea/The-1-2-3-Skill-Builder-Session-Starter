@@ -41,7 +41,7 @@
 
     TODO:
     Here are your 8 Crocodile-Count-Reps:
-    - [v] 🐊
+    - [x] 🐊
     - [ ] 🐊
     - [ ] 🐊
     - [ ] 🐊
