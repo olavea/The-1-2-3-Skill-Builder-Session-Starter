@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
+  <a href="https://www.olavea.com/">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
@@ -18,17 +18,15 @@
     git clone https://github.com/olavea/The-1-2-3-Skill-Builder-Session-Starter.git
     ```
 
-0.  **Bleh.**
-
     Navigate into your new starter’s directory.
 
     ```shell
     cd The-1-2-3-Skill-Builder-Session-Starter/
-    npm run develop
-    ```
-## 🚀 Start
 
-1.  **Start a  Crocodile-Count-Down-Clock with X minutes**
+    ```
+## 🚀 Start structuring today's Skill-Builder-Session
+
+1.  **Start a Crocodile-Count-Down-Clock with X minutes**
 
     TODO:
     Make up your mind:
@@ -68,7 +66,6 @@ A.  **How Did YOU Automate in your skull that tiny Taskerbell-Task?**
     Write notes. You know, just write down stuff that pops into your brain. For each word you write down you «make space» for another word in your brain. If you keep writing down words one of those words might be a golden nugget, showing you the path you need to take to Automate in your skull this tiny Taskerbell-Task.
     - [ ] 💀 Write your notes about «Automate in your skull that tiny Taskerbell-Task» here: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-
 B.  **Who's your accountability-Buddy, Buddy?**
 
     TODO:
@@ -94,14 +91,4 @@ Yeah The 1-2-3 Skill-Builder-Session-Starter is still in beta, so please give me
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
 
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+    - [Documentation](https://www.olavea.com/)
